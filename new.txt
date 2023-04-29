@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 ani
 aaaal
+=======
+
+sssanil
+>>>>>>> Stashed changes
